@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 14 |
+| 30 | 14 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (11)
 - [math](#math) (12)
@@ -94,6 +94,7 @@
 | 202A | [LLPS](https://codeforces.com/contest/202/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gholandalb/DSA/blob/HEAD/202/A%20-%20LLPS/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gholandalb/DSA/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gholandalb/DSA/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
+| 903C | [Boxes Packing](https://codeforces.com/contest/903/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/gholandalb/DSA/blob/HEAD/903/C%20-%20Boxes%20Packing/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/gholandalb/DSA/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/gholandalb/DSA/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/gholandalb/DSA/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
