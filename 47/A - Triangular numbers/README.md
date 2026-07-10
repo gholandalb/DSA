@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/47/problem/A" target="_blank" rel="noopener noreferrer">47A — Triangular numbers</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 47A](https://codeforces.com/contest/47/problem/A) |
+
+## Topics
+`brute force` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Triangular numbers</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>A triangular number is the number of dots in an equilateral triangle uniformly filled with dots. For example, three dots can be arranged in a triangle; thus three is a triangular number. The <span class="tex-span"><i>n</i></span>-th triangular number is the number of dots in a triangle with <span class="tex-span"><i>n</i></span> dots on a side. <img align="middle" class="tex-formula" src="https://espresso.codeforces.com/d3b79c3a1beb823c96a128431cc056ce870b2780.png" style="max-width: 100.0%;max-height: 100.0%;">. You can learn more about these numbers from Wikipedia (http://en.wikipedia.org/wiki/Triangular_number).</p><p>Your task is to find out if a given integer is a triangular number.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains the single number <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 500</span>) — the given integer.</p></div><div class="output-specification"><div class="section-title">Output</div><p>If the given integer is a triangular number output <span class="tex-font-style-tt">YES</span>, otherwise output <span class="tex-font-style-tt">NO</span>.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008128968070618394" id="id0012211210520641613" class="input-output-copier">Copy</div></div><pre id="id008128968070618394">1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id003349075293747644" id="id0013205383937095627" class="input-output-copier">Copy</div></div><pre id="id003349075293747644">YES<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008055878813507583" id="id0007703609426196423" class="input-output-copier">Copy</div></div><pre id="id008055878813507583">2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005256205533961643" id="id009916761476054811" class="input-output-copier">Copy</div></div><pre id="id005256205533961643">NO<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007520187770990415" id="id009451594723787392" class="input-output-copier">Copy</div></div><pre id="id007520187770990415">3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0033479285042466533" id="id005165875104727096" class="input-output-copier">Copy</div></div><pre id="id0033479285042466533">YES<br></pre></div></div></div>
