@@ -25,4 +25,16 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
