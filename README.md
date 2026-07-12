@@ -10,3 +10,14 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 
 - Contains the solutions to all my problems in leetcode
 - I am still thinking about how I will use this platform to practice.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
+<!---LeetCode Topics End-->
