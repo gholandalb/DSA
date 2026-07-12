@@ -19,3 +19,7 @@ Actual rating (3 contests): 810
 - Participate in weekly contests
 
 #### Contests results:
+
+7 july 2026:
+Codeforces Round 1108 (Div. 2)
+- Solved A & B problems, rating change: 810 -> 910.
