@@ -19,3 +19,12 @@ Actual rating (3 contests): 810
 - Participate in weekly contests
 
 #### Contests results:
+
+Round 1108 Div 2 - July 12
+Solved: 2 (A & B)
+Rating: 810 -> 910;
+
+Round 1109 Div 3 - July 14
+Solved: 2 (A & B)
+Rating: 910 -> 953
+ 
