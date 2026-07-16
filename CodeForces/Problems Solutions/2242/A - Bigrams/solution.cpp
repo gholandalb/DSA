@@ -8,13 +8,12 @@ typedef pair<ll,ll>         pll;
 typedef vector<int>         vi;
 typedef vector<ll>          vll;
 typedef vector<pii>         vpii;
- 
+
 #define pb             push_back
 #define mp             make_pair
 #define fi             first
-#define se             second
- 
- 
+#define se             second 
+
 int main()
 {
     int t;
