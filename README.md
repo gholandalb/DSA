@@ -22,6 +22,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0075-sort-colors](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -51,4 +52,5 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 <!---LeetCode Topics End-->
