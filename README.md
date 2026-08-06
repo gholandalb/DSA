@@ -9,7 +9,6 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## LeetCode
 
 - Contains the solutions to all my problems in leetcode
-- I am still thinking about how I will use this platform to practice.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
