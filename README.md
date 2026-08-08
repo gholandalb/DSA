@@ -31,6 +31,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,5 +71,6 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
