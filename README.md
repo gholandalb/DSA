@@ -20,6 +20,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0035-search-insert-position](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0605-can-place-flowers](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
@@ -81,4 +82,8 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
