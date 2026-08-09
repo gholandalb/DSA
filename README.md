@@ -45,6 +45,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Math
@@ -76,11 +77,13 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
