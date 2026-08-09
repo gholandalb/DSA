@@ -22,6 +22,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0075-sort-colors](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0605-can-place-flowers](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
@@ -75,6 +76,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -94,9 +96,15 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
