@@ -30,6 +30,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -89,10 +90,12 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
