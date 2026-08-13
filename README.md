@@ -3,10 +3,16 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 
 ## Codeforces
 
+- Username: g_holanda
+- Account Link: https://codeforces.com/profile/g_holanda
+
 - Contains the solutions to all my problems in codeforces
 - Its README has a complete documentation of my journey and progress improving my rating and learning competitive programming
 
 ## LeetCode
+
+- Username: g_holandalb
+- Account Link: https://leetcode.com/u/g_holandalb/
 
 - Contains the solutions to all my problems in leetcode
 
