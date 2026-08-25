@@ -39,6 +39,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0875-koko-eating-bananas](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0003-longest-substring-without-repeating-characters](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
