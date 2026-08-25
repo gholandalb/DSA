@@ -43,6 +43,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
@@ -137,6 +138,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
