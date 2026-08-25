@@ -134,4 +134,12 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
