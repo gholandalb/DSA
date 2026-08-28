@@ -113,6 +113,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -121,6 +122,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -146,4 +148,12 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
