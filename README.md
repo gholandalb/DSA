@@ -134,6 +134,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
