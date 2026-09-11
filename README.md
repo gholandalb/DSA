@@ -24,6 +24,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0063-unique-paths-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -99,6 +100,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -123,6 +125,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
