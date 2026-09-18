@@ -28,6 +28,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0064-minimum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0120-triangle](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -128,6 +129,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0063-unique-paths-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
