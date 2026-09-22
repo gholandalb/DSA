@@ -34,6 +34,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0605-can-place-flowers](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
@@ -90,6 +91,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0035-search-insert-position](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -131,6 +133,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0070-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -231,4 +234,8 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
