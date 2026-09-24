@@ -77,6 +77,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0062-unique-paths](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
@@ -138,6 +139,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0300-longest-increasing-subsequence](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -224,6 +226,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
