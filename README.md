@@ -50,6 +50,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
@@ -149,6 +150,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
