@@ -149,6 +149,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0070-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -161,6 +162,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | ------- | ------- |
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
@@ -217,6 +219,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | ------- | ------- |
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
@@ -224,6 +227,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | ------- | ------- |
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 ## Queue
@@ -276,4 +280,8 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
