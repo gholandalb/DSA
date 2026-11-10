@@ -162,6 +162,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
@@ -175,6 +176,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
@@ -215,12 +217,14 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | ------- | ------- |
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
