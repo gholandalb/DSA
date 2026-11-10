@@ -43,6 +43,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0704-binary-search](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -151,6 +152,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0300-longest-increasing-subsequence](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
