@@ -57,6 +57,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -125,6 +126,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -139,6 +141,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
@@ -263,4 +266,8 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
