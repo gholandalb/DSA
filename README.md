@@ -43,19 +43,23 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0704-binary-search](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -77,6 +81,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -123,6 +128,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -137,24 +143,31 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -167,6 +180,7 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
@@ -193,25 +207,35 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0226-invert-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,4 +282,13 @@ Data Structures &amp; Algorithms learning journey and competitive programming so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gholandalb/DSA/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gholandalb/DSA/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/gholandalb/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
